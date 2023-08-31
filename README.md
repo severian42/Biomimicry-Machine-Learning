@@ -1,5 +1,7 @@
-# Biomimicry in Machine Learning: An Experimental Exploration
-![Biomimicry Logo](logo.png)
+<h2>Biomimicry in Machine Learning: An Experimental Exploration</h2>
+
+<img src="_3e284bd4-b723-4dd6-ac5b-da547fd88226.jpeg" width="500" height="500">
+
 
 ## Featured Notebooks: Blackhole & Immune System Unlearning
 We're currently spotlighting two key notebooks that serve as test beds for our biomimetic approach:
@@ -59,5 +61,5 @@ The project will continue to evolve, with upcoming phases focusing on:
 - **Publication**: Preparation of manuscripts for peer-reviewed journals to disseminate findings.
 
 ---
-For inquiries or collaborations, feel free to [contact](mailto:your-email@example.com).
+For inquiries or collaborations, feel free to [contact](beckettdillon42Gmail.com)
 
