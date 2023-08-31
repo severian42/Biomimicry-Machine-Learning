@@ -8,6 +8,8 @@ We're currently spotlighting two key notebooks that serve as test beds for our b
 
 - **Immune System Unlearning Notebook**: This notebook takes inspiration from the adaptive qualities of biological immune systems to develop an innovative unlearning algorithm. The algorithm is designed to "forget" specific data subsets while retaining crucial model performance, simulating how an immune system adapts to new threats without losing memory of past ones. Our empirical results show remarkable efficacy in the "forgetting" capabilities, achieving a Membership Inference Attack (MIA) accuracy close to 0.5, and notably lower forget loss compared to traditional re-training methods. Dive in to explore this frontier in machine learning that harmoniously integrates biomimicry principles.
 
+   <a href="https://colab.research.google.com/drive/1prUh5qkYPTM1zTogIAMjODBWgik_Fe3N?usp=sharing" target="_blank">Try the Immune System Unlearning notebook here</a>
+
 - - (STILL UNDER CONSTRUCTION)**Blackhole Unlearning Notebook**: This notebook explores the gravitational principles of blackholes to inform a novel unlearning algorithm. The objective is to harness the event-horizon dynamics to redefine data retention and exclusion in model training.
 
 Through these notebooks, we aim to provide empirical evidence for the efficacy of integrating biomimetic principles into machine learning algorithms.
