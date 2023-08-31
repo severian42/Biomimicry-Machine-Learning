@@ -10,7 +10,10 @@ We're currently spotlighting two key notebooks that serve as test beds for our b
 
    <a href="https://colab.research.google.com/drive/1prUh5qkYPTM1zTogIAMjODBWgik_Fe3N?usp=sharing" target="_blank">Try the Immune System Unlearning notebook here</a>
  
-- (STILL UNDER CONSTRUCTION- Will be realesed soon) **Blackhole Unlearning Notebook**: This notebook explores the gravitational principles of blackholes to inform a novel unlearning algorithm. The objective is to harness the event-horizon dynamics to redefine data retention and exclusion in model training.
+- **Blackhole Unlearning Notebook**: This notebook explores the gravitational principles of blackholes to inform a novel unlearning algorithm. The objective is to harness the event-horizon dynamics to redefine data retention and exclusion in model training.
+
+  
+  <a href="https://colab.research.google.com/drive/1prUh5qkYPTM1zTogIAMjODBWgik_Fe3N?usp=sharing" target="_blank">Try the Blackhole Unlearning notebook here</a>
 
 Through these notebooks, we aim to provide empirical evidence for the efficacy of integrating biomimetic principles into machine learning algorithms.
 
