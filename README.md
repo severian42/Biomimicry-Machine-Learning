@@ -63,5 +63,4 @@ The project will continue to evolve, with upcoming phases focusing on:
 - **Publication**: Preparation of manuscripts for peer-reviewed journals to disseminate findings.
 
 ---
-For inquiries or collaborations, feel free to [contact](beckettdillon42Gmail.com)
-
+For inquiries or collaborations, feel free to [Email me](beckettdillon42Gmail.com) or @Severian.Makes.Noise
