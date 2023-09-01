@@ -15,7 +15,7 @@ We're currently spotlighting two key notebooks that serve as test beds for our b
   
   <a href="https://colab.research.google.com/drive/1prUh5qkYPTM1zTogIAMjODBWgik_Fe3N?usp=sharing" target="_blank">Try the Blackhole Unlearning notebook here</a>
 
-  *DISCLAIMER:* These notebooks have been modified and adpated from this original source which was a Google Competition that never started.I ended up adapting the notebook so I could open source a working version of the algorithm for the community and we could keep exploring its potential. Here is the original notebook https://github.com/unlearning-challenge/starting-kit
+  *DISCLAIMER:* These notebooks have been modified and adpated from this original source which was a Google Competition that never started. I ended up adapting the notebook so I could open source a working version of the algorithm for the community and we could keep exploring its potential. Here is the original notebook https://github.com/unlearning-challenge/starting-kit
 
 Through these notebooks, we aim to provide empirical evidence for the efficacy of integrating biomimetic principles into machine learning algorithms.
 
