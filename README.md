@@ -3,22 +3,6 @@
 <img src="_3e284bd4-b723-4dd6-ac5b-da547fd88226.jpeg" width="500" height="500">
 
 
-## Featured Notebooks: Blackhole & Immune System Unlearning
-We're currently spotlighting two key notebooks that serve as test beds for our biomimetic approach:
-
-- **Immune System Unlearning Notebook**: This notebook takes inspiration from the adaptive qualities of biological immune systems to develop an innovative unlearning algorithm. The algorithm is designed to "forget" specific data subsets while retaining crucial model performance, simulating how an immune system adapts to new threats without losing memory of past ones. Our empirical results show remarkable efficacy in the "forgetting" capabilities, achieving a Membership Inference Attack (MIA) accuracy close to 0.5, and notably lower forget loss compared to traditional re-training methods. Dive in to explore this frontier in machine learning that harmoniously integrates biomimicry principles.
-
-   <a href="https://colab.research.google.com/drive/1prUh5qkYPTM1zTogIAMjODBWgik_Fe3N?usp=sharing" target="_blank">Try the Immune System Unlearning notebook here</a>
- 
-- **Blackhole Unlearning Notebook**: This notebook explores the gravitational principles of blackholes to inform a novel unlearning algorithm. The objective is to harness the event-horizon dynamics to redefine data retention and exclusion in model training.
-
-  
-  <a href="https://colab.research.google.com/drive/1prUh5qkYPTM1zTogIAMjODBWgik_Fe3N?usp=sharing" target="_blank">Try the Blackhole Unlearning notebook here</a>
-
-  *DISCLAIMER:* These notebooks have been modified and adpated from this original source which was a Google Competition that never started. I ended up adapting the notebook so I could open source a working version of the algorithm for the community and we could keep exploring its potential. Here is the original notebook https://github.com/unlearning-challenge/starting-kit
-
-Through these notebooks, we aim to provide empirical evidence for the efficacy of integrating biomimetic principles into machine learning algorithms.
-
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Research Hypothesis](#research-hypothesis)
@@ -31,8 +15,11 @@ Through these notebooks, we aim to provide empirical evidence for the efficacy o
 ## Introduction
 This repository serves as an exploratory research platform aiming to integrate biomimicry principles into machine learning algorithms. The project is an independent endeavor, driven by the conviction that biomimicry offers untapped potential for innovative solutions in machine learning.
 
+## What Drives This Project?
+This initiative is more than a collection of code and models; it's a philosophical stance rooted in the belief that nature, with billions of years of evolutionary trial and error, holds the key to solving some of our most complex computational challenges. By studying and emulating natural processes and systems—such as the adaptive capabilities of biological immune systems or the event horizons of black holes—we aim to create algorithms that are not only efficient but also inherently resilient and adaptable.
+
 ## Research Hypothesis
-The central hypothesis guiding this research is that principles of biomimicry can be leveraged to create machine learning algorithms that are more efficient, robust, and adaptable. This hypothesis is examined through rigorous computational experiments and is based on the foundational concept of the 'Consilience Equation,' a biomimetic framework for harmonizing modeling perspectives.
+The central hypothesis guiding this research is that principles of biomimicry can be leveraged to create machine learning algorithms that are more efficient, robust, and adaptable. This hypothesis is examined through rigorous computational experiments.
 
 ## Experimental Design
 The project employs a single-subject, exploratory research design focused on:
@@ -59,6 +46,22 @@ This project offers the following unique contributions:
 
 ## Preliminary Findings
 Initial results are promising, showing potential benefits in efficiency and robustness. Detailed findings are documented in the project's Jupyter notebooks.
+
+## Featured Notebooks: Blackhole & Immune System Unlearning
+We're currently spotlighting two key notebooks that serve as test beds for our biomimetic approach:
+
+- **Immune System Unlearning Notebook**: This notebook takes inspiration from the adaptive qualities of biological immune systems to develop an innovative unlearning algorithm. The algorithm is designed to "forget" specific data subsets while retaining crucial model performance, simulating how an immune system adapts to new threats without losing memory of past ones. Our empirical results show remarkable efficacy in the "forgetting" capabilities, achieving a Membership Inference Attack (MIA) accuracy close to 0.5, and notably lower forget loss compared to traditional re-training methods. Dive in to explore this frontier in machine learning that harmoniously integrates biomimicry principles.
+
+   <a href="https://colab.research.google.com/drive/1prUh5qkYPTM1zTogIAMjODBWgik_Fe3N?usp=sharing" target="_blank">Try the Immune System Unlearning notebook here</a>
+ 
+- **Blackhole Unlearning Notebook**: This notebook explores the gravitational principles of blackholes to inform a novel unlearning algorithm. The objective is to harness the event-horizon dynamics to redefine data retention and exclusion in model training.
+
+  
+  <a href="https://colab.research.google.com/drive/1prUh5qkYPTM1zTogIAMjODBWgik_Fe3N?usp=sharing" target="_blank">Try the Blackhole Unlearning notebook here</a>
+
+  *DISCLAIMER:* These notebooks have been modified and adpated from this original source which was a Google Competition that never started. I ended up adapting the notebook so I could open source a working version of the algorithm for the community and we could keep exploring its potential. Here is the original notebook https://github.com/unlearning-challenge/starting-kit
+
+Through these notebooks, we aim to provide empirical evidence for the efficacy of integrating biomimetic principles into machine learning algorithms.
 
 ## Next Steps
 The project will continue to evolve, with upcoming phases focusing on:
