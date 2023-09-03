@@ -56,7 +56,7 @@ We're currently spotlighting two key notebooks that serve as test beds for our b
  
 - **Blackhole Unlearning Notebook**: This notebook explores the gravitational principles of blackholes to inform a novel unlearning algorithm. The objective is to harness the event-horizon dynamics to redefine data retention and exclusion in model training.
 
-  <a href="https://colab.research.google.com/drive/1prUh5qkYPTM1zTogIAMjODBWgik_Fe3N?usp=sharing" target="_blank”><Try the Blackhole Unlearning notebook here</a>
+  <a href="https://colab.research.google.com/drive/1prUh5qkYPTM1zTogIAMjODBWgik_Fe3N?usp=sharing" target="_blank”>Try the Blackhole Unlearning notebook here</a>
 
 
   *DISCLAIMER:* These notebooks have been modified and adpated from this original source which was a Google Competition that never started. I ended up adapting the notebook so I could open source a working version of the algorithm for the community and we could keep exploring its potential. Here is the original notebook https://github.com/unlearning-challenge/starting-kit
@@ -72,3 +72,5 @@ The project will continue to evolve, with upcoming phases focusing on:
 
 ---
 For inquiries or collaborations, feel free to [Email me](beckettdillon42Gmail.com) or @Severian.Makes.Noise
+
+Contributers welcome! Please share your ideas, projects and related items with this Biomimicry Machine Learning concept.
